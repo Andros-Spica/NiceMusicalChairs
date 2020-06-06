@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/87985803.svg)](https://zenodo.org/badge/latestdoi/87985803)
+
 # Nice Musical Chairs model
 
 The NMC model, a sequel of the Musical Chairs model, explores how land use competition could be constrained by cooperation and social institutions.
